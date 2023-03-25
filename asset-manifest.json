@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8829e9c.css",
+    "main.js": "/static/js/main.e616bada.js",
+    "static/media/background.png": "/static/media/background.47cee708419a17eeea0a.png",
+    "static/media/logo-with-text.svg": "/static/media/logo-with-text.7fe0eeff4465bd0bfc2595731aa4d1cf.svg",
+    "static/media/tonhub.svg": "/static/media/tonhub.beecaca7672d5663dc7739ef92885903.svg",
+    "static/media/plus.svg": "/static/media/plus.8a9d89638ae7b8043dd1c4de55b06f17.svg",
+    "static/media/delete.svg": "/static/media/delete.fb75b3dfa078310d6339344a6a6bb033.svg",
+    "static/media/exit.svg": "/static/media/exit.496dd019befd04c5333746ccba6836ef.svg",
+    "static/media/search.svg": "/static/media/search.e785b1f343014d28f9e1370a8ae32f31.svg",
+    "index.html": "/index.html",
+    "static/media/tonkeeper.svg": "/static/media/tonkeeper.f9615db9d40223829af0fd8c52f242b2.svg",
+    "static/media/pause.svg": "/static/media/pause.e3360e57577ce2014be5f9b567e6e068.svg",
+    "main.d8829e9c.css.map": "/static/css/main.d8829e9c.css.map",
+    "main.e616bada.js.map": "/static/js/main.e616bada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8829e9c.css",
+    "static/js/main.e616bada.js"
+  ]
+}
